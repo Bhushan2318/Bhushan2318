@@ -84,7 +84,7 @@ Sanket doesn't make another weather forecast. It predicts **when an existing for
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhushan2318&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&disable_animations=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhushan2318&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&disable_animations=true&hide_rank=true" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan2318&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&disable_animations=true" alt="Top languages"/>
 </p>
 <p align="center">
