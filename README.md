@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/bhushan-ananth"><img src="assets/linkedin-1bab0b.svg" alt="LinkedIn"/></a>
   <a href="https://sanket-a0dd.onrender.com"><img src="assets/live-539c0b.svg" alt="Sanket live"/></a>
   <a href="https://www.youtube.com/watch?v=rY73m6pxdpE"><img src="assets/demo-e96cd9.svg" alt="Demo video"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Bhushan2318&style=for-the-badge&color=2c5364&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
