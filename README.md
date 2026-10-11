@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bhushan%20Ananth&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=CSE%20(Cyber%20Security)%20%C2%B7%20DSCE%20Bengaluru%20%C2%B7%20Class%20of%202028&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Bhushan Ananth"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bhushan%20Ananth&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=CSE%20(Cyber%20Security)%20%C2%B7%20DSCE%20Bengaluru%20%C2%B7%20Class%20of%202028&descAlignY=58&descSize=18" width="100%" alt="Bhushan Ananth"/>
 
 <p align="center">
   <a href="https://github.com/Bhushan2318">
