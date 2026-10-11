@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhushan-ananth"><img src="https://img.shields.io/badge/LinkedIn-bhushan--ananth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://sanket-a0dd.onrender.com"><img src="https://img.shields.io/badge/Live-Sanket-0EA5E9?style=for-the-badge&logo=render&logoColor=white" alt="Sanket live"/></a>
+  <a href="https://sanket-a0dd.onrender.com"><img src="https://img.shields.io/badge/Live-Sanket-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&v=2" alt="Sanket live"/></a>
   <a href="https://www.youtube.com/watch?v=rY73m6pxdpE"><img src="https://img.shields.io/badge/Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo video"/></a>
   <img src="https://komarev.com/ghpvc/?username=Bhushan2318&style=for-the-badge&color=2c5364&label=Profile+views" alt="Profile views"/>
 </p>
@@ -58,12 +58,12 @@ Sanket doesn't make another weather forecast. It predicts **when an existing for
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/XGBoost-1B6AC6?style=flat-square&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/XGBoost-1B6AC6?style=flat-square&logo=python&logoColor=white&v=2" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-8B5CF6?style=flat-square" alt="SHAP"/>
+  <img src="https://img.shields.io/badge/SHAP-Explainable_AI-8B5CF6?style=flat-square&v=2" alt="SHAP"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=flat-square&logo=apache&logoColor=white" alt="Parquet"/>
+  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white&v=2" alt="Parquet"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
   <img src="https://img.shields.io/badge/Cybersecurity-111827?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity"/>
 </p>
