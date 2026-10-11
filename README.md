@@ -84,11 +84,11 @@ Sanket doesn't make another weather forecast. It predicts **when an existing for
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhushan2318&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan2318&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhushan2318&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&disable_animations=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushan2318&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&disable_animations=true" alt="Top languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhushan2318&theme=tokyonight&hide_border=true&background=0d1117" alt="Contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Bhushan2318&theme=tokyonight&hide_border=true&background=0d1117&disable_animations=true" alt="Contribution streak"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt=""/>
