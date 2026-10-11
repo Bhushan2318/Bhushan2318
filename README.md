@@ -1,6 +1,6 @@
 # Hi, I'm Bhushan Ananth
 
-CSE (Cyber Security) student at Dayananda College of Engineering, graduating 2028.
+CSE (Cyber Security) student at Dayananda Sagar College of Engineering, graduating 2028.
 
 ### Sanket: forecast-bust early warning for India
 Sanket doesn't forecast the weather. It predicts when an existing forecast is about to be badly wrong,
